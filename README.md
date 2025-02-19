@@ -1,4 +1,4 @@
-﻿# [atet](https://github.com/atet) / [learn](https://github.com/atet/learn/blob/master/README.md#atet--learn) / [**_sql_**](https://github.com/atet/learn/blob/master/sql/README.md#atet--learn--sql)
+﻿# [atet](https://github.com/atet) / [**_sql_**](https://github.com/atet/sql?tab=readme-ov-file#atet--sql)
 
 [![.img/logo_sqlite.png](.img/logo_sqlite.png)](#nolink)
 
@@ -47,7 +47,7 @@
 ## 1. Installation
 
 * We will use SQLiteStudio, which is a Graphical User Interface (GUI) created for SQLite
-* Download the latest "Windows (portable), 32-bit" version: https://github.com/pawelsalawa/sqlitestudio/releases
+* Download the latest "Windows (portable), 64-bit" version: https://github.com/pawelsalawa/sqlitestudio/releases
 
 [![.img/step01a.png](.img/step01a.png)](#nolink)
 
@@ -63,7 +63,7 @@
 ## 2. Example Data
 
 * We will use a small dataset of vehicles as an example<sup>[[1]](#acknowledgments)</sup>
-* Click here for the dataset (right-click and "Save as..." then save as _mtcars.csv_): <a href="https://raw.githubusercontent.com/atet/learn/master/sql/data/mtcars.csv" target="_blank">https://raw.githubusercontent.com/atet/learn/master/sql/data/mtcars.csv</a>
+* Click here for the dataset (right-click and "Save as..." then save as _mtcars.csv_): <a href="https://raw.githubusercontent.com/atet/sql/main/data/mtcars.csv" target="_blank">https://raw.githubusercontent.com/atet/sql/main/data/mtcars.csv</a>
 * This Comma Separated Values (CSV) file contains 32 records of vehicles and 12 attributes describing them (e.g. "id" = name, "mpg" = miles per gallon, etc.):
 
 [![.img/step02.png](.img/step02.png)](#nolink)
